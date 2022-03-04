@@ -17,11 +17,11 @@
 <img src=https://i.imgur.com/wvTMw09.jpg>
 </p>
   <p align="center">
-<a href="https://github.com/zim-bot"><img title="Author-DripsMemes" src="https://img.shields.io/badge/Author-zim-bot/zim-bot?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ShehanShahoff"><img title="Author-SKE TECH" src="https://img.shields.io/badge/Author-SKETECH/ShehanShahoff?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make it public
+Project created by <a href="https://github.com/ShehanShahoff">SKETECH</a> to make it public
     <br>
        | © |
         Reserved |
@@ -34,7 +34,7 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 
 ## Subcribe to my channel for more updates 👇
 
- [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://www.youtube.com/channel/UC2hESq6BCRMCU-LKpl7Oq8g)
+ [![ANY DOUBT REFER IT](https://www.linkpicture.com/q/YouTube-Logo-700x394.png)](https://youtube.com/channel/UC3wDPLDGzuoCfVNLEBcwWgA)
 
 
 
@@ -66,7 +66,7 @@ Project created by <a href="https://github.com/zim-bot">DripsMemes</a> to make i
 <a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## DRIPS MEMES
+## SKE TECH
     
 ### ⚠ Warning ⚠
 
@@ -86,7 +86,7 @@ you can contact 👇🏻👇🏻
 ```
 ## ```TAP THE WHATSAPP LOGO TO JOIN  BOT WHATSAPP GROUP```   👇🏻👇🏻
  
-**[![DRIPS MEMES](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](https://chat.whatsapp.com/EFsb8RCXV4jLEFk4eAcA1A)**
+**[![SKE TECH](https://www.linkpicture.com/q/WHTSPP-LOGO.png)](https://chat.whatsapp.com/DDMWjZUtNruDFTSvXfsPgS)**
 
 
  
