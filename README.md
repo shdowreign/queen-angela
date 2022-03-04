@@ -42,7 +42,7 @@ Project created by <a href="https://youtube.com/channel/UC3wDPLDGzuoCfVNLEBcwWgA
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/zim-bot/queen-angela)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShehanShahoff/queen-angela)
 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/zim-bot?v=1)
@@ -66,7 +66,7 @@ Project created by <a href="https://youtube.com/channel/UC3wDPLDGzuoCfVNLEBcwWgA
 <a href="https://github.com/Amal-ser/Amalser/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Amal-ser/Amalser?label=Watchers&color=blue&style=flat-square"></a>
 </p>
 
-## SKE TECH
+## SKE TECH)
     
 ### ⚠ Warning ⚠
 
