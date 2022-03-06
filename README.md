@@ -42,7 +42,7 @@ Project created by <a href="https://youtube.com/channel/UC3wDPLDGzuoCfVNLEBcwWgA
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/ShehanShahoff/queen-angela)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/shdowreign/queen-angela)
 
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ReinhardTuna/zim-bot?v=1)
